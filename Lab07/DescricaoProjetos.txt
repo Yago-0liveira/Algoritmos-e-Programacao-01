@@ -1,0 +1,4 @@
+YagoOliveiraSilva_Lab7_Questao1 - programa que pede ao usuario um numero inteiro positivo n e imprime os numeros primos mais proximos dele (um maior e outro menor que ele).
+
+YagoOliveiraSilva_Lab7_Questao2 - Programa para jogar par ou ímpar com o computador.
+
