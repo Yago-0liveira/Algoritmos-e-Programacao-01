@@ -1,0 +1,3 @@
+YagoOliveiraSilva_lab09_questao1 - Calcula o MDC entre dois valores fornecidos pelo usuario
+
+YagoOliveiraSilva_lab09_questao2 - Recebe os valores de X e N e realiza o calculo do seguinte somatorio: 1 + x + 2x + 3x + ... nx
