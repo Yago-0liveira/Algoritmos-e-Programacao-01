@@ -1,0 +1,5 @@
+yagooliveirasilva_lab05_questao01 - le tres numeros e mostra-os em ordem decrescente.
+
+yagooliveirasilva_lab05_questao02 - Devolve o tipo de pulverizacao solicitado, a area a ser pulverizada e imprime o valor total a ser pago.
+
+yagooliveirasilva_lab05_questao03 -  Calcula e mostre a duracao de um jogo (horas e minutos),sabendo que o tempo maximo de duracao do jogo e de 24 horas e que o jogo pode comecar num dia terminar em outro.
