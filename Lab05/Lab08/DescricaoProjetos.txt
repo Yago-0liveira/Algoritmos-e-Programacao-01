@@ -1,1 +1,0 @@
-yagooliveira_lab08_questao02 - imprime os produtos dos valores de mesmo tipo.
