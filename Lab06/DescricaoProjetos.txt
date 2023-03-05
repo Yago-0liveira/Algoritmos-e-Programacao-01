@@ -1,0 +1,9 @@
+YagoOliveiraSilva_lab06_questao01 - funcao que recebe um valor inteiro e verifica se o valor e positivo, negativo ou zero.
+
+YagoOliveira_Lab06_questao02 - funcao que recebe dois numeros inteiros positivos m e n e retorna true se n é ivisor de m e false, caso contrario.
+
+YagoOliveira_Lab06_questao03 - imprime todos os divisores de um numero inteiro positivo
+
+YagoOliveira_Lab06_questao04 - recebe tres numeros e retorna o tipo de media escolhida pelo usuario (aritmetica, ponderada ou harmonica)
+
+YagoOliveira_Lab06_questao05 - Recebe dois valores e imprime os números entre eles (se a < b,  imprime os valores no intervalo [a, b] em ordem crescente. caso o contrario imprime os valores no intervalo [b, a] em ordem decrescente.)
