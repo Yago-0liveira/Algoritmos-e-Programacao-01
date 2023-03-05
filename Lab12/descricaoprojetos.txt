@@ -1,0 +1,4 @@
+YagoOliveiraSilva_lab12_questao01 - recebe um vetor inteiro v[0..n-1] e os enderecos de duas variaveis inteiras (dois ponteiros) - minimo e maximo
+
+
+YagoOliveiraSilva_lab12_questao02 - realiza operacoes com vetores multidmensionais
